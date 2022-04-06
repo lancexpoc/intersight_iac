@@ -4,8 +4,8 @@
 #______________________________________________
 
 multicast_policies = {
-  "demo" = {
-    description             = "demo Multicast Policy"
+  "bywhite_multicast" = {
+    description             = "bywhite_multicast Multicast Policy"
     querier_ip_address      = ""
     querier_ip_address_peer = ""
     querier_state           = "Disabled"
