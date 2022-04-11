@@ -4,8 +4,8 @@
 #______________________________________________
 
 link_aggregation_policies = {
-  "domainx" = {
-    description        = "domainx Link Aggregation Policy"
+  "xpoc6454" = {
+    description        = "xpoc6454 Link Aggregation Policy"
     lacp_rate          = "normal"
     suspend_individual = false
     tags               = []

@@ -4,25 +4,25 @@
 #______________________________________________
 
 ucs_domain_profiles = {
-  "domainx" = {
+  "xpoc6454" = {
     action                      = "No-op"
     assign_switches             = false
-    description                 = "domainx UCS Domain Profile"
+    description                 = "xpoc6454 UCS Domain Profile"
     device_model                = "UCS-FI-6454"
-    network_connectivity_policy = "domainx"
-    ntp_policy                  = "domainx"
-    port_policy_fabric_a        = "domainx-a"
-    port_policy_fabric_b        = "domainx-b"
+    network_connectivity_policy = "xpoc6454"
+    ntp_policy                  = "xpoc6454"
+    port_policy_fabric_a        = "xpoc6454-a"
+    port_policy_fabric_b        = "xpoc6454-b"
     snmp_policy                 = "default_domain"
     serial_number_fabric_a      = ""
     serial_number_fabric_b      = ""
-    switch_control_policy       = "domainx"
+    switch_control_policy       = "xpoc6454"
     syslog_policy               = "default_domain"
-    system_qos_policy           = "domainx"
-    vlan_policy_fabric_a        = "domainx"
-    vlan_policy_fabric_b        = "domainx"
-    vsan_policy_fabric_a        = "domainx-A"
-    vsan_policy_fabric_b        = "domainx-B"
-    tags         = []
+    system_qos_policy           = "xpoc6454"
+    vlan_policy_fabric_a        = "xpoc6454"
+    vlan_policy_fabric_b        = "xpoc6454"
+    vsan_policy_fabric_a        = "xpoc6454-A"
+    vsan_policy_fabric_b        = "xpoc6454-B"
+    tags                        = []
   }
 }

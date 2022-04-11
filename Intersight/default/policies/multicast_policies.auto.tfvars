@@ -4,8 +4,8 @@
 #______________________________________________
 
 multicast_policies = {
-  "domainx" = {
-    description             = "domainx Multicast Policy"
+  "xpoc6454" = {
+    description             = "xpoc6454 Multicast Policy"
     querier_ip_address      = ""
     querier_ip_address_peer = ""
     querier_state           = "Disabled"

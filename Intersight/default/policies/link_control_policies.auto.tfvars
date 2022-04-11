@@ -4,10 +4,10 @@
 #______________________________________________
 
 link_control_policies = {
-  "domainx" = {
-    admin_state  = "Enabled"
-    description  = "domainx Link Control Policy"
-    mode         = "normal"
-    tags         = []
+  "xpoc6454" = {
+    admin_state = "Enabled"
+    description = "xpoc6454 Link Control Policy"
+    mode        = "normal"
+    tags        = []
   }
 }

@@ -4,11 +4,11 @@
 #______________________________________________
 
 flow_control_policies = {
-  "domainx" = {
-    description  = "domainx Flow Control Policy"
-    priority     = "auto"
-    receive      = "Enabled"
-    send         = "Enabled"
-    tags         = []
+  "xpoc6454" = {
+    description = "xpoc6454 Flow Control Policy"
+    priority    = "auto"
+    receive     = "Enabled"
+    send        = "Enabled"
+    tags        = []
   }
 }

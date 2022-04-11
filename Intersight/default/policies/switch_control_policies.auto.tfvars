@@ -4,7 +4,7 @@
 #______________________________________________
 
 switch_control_policies = {
-  "domainx" = {
+  "xpoc6454" = {
     description                  = ""
     ethernet_switching_mode      = "end-host"
     fc_switching_mode            = "end-host"
@@ -13,6 +13,6 @@ switch_control_policies = {
     udld_message_interval        = 15
     udld_recovery_action         = "reset"
     vlan_port_count_optimization = false
-    tags = []
+    tags                         = []
   }
 }
